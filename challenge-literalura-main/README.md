@@ -241,10 +241,3 @@ Menu de opciones:
 4- Listar autores vivos en un determinado año
 5- Listar libros por idioma
 0- Salir
-Elija la opción a través de su número:
-
-0
-2024-05-08T11:00:14.253-05:00  INFO 12072 --- [challenge-literalura] [ionShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2024-05-08T11:00:14.254-05:00  INFO 12072 --- [challenge-literalura] [ionShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2024-05-08T11:00:14.256-05:00  INFO 12072 --- [challenge-literalura] [ionShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-```
